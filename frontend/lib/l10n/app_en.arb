@@ -1,0 +1,14 @@
+{
+  "appTitle": "FarmConnect",
+  "welcome_back": "Welcome Back",
+  "login_to_continue": "Login to continue",
+  "email": "Email",
+  "password": "Password",
+  "forgot_password": "Forgot Password?",
+  "login": "Login",
+  "dont_have_account": "Don't have an account? Sign Up",
+  "products": "Products",
+  "orders": "Orders",
+  "chat": "Chat",
+  "profile": "Profile"
+}
